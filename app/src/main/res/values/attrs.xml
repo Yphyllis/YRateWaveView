@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="RateWaveView">
+        <attr name="bar_color" format="reference|color"></attr>
+        <attr name="cover_bar_color" format="reference|color"></attr>
+        <attr name="background_color" format="reference|color"></attr>
+    </declare-styleable>
+
+</resources>
